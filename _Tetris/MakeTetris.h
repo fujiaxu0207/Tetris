@@ -1,0 +1,1 @@
+void MakeTetris(struct Tetris *);//制作俄罗斯方块 

@@ -1,0 +1,1 @@
+int color(int c);//ÑÕÉ«

@@ -1,0 +1,9 @@
+struct Tetris{//俄罗斯方块的结构体 
+	int x,y;//定义俄罗斯方块的中心坐标（x,y）
+	int flag;//标记俄罗斯方块的类型
+	int next;//下一个俄罗斯方块的类型
+	int speed;//俄罗斯方块移动的速度 
+	int number;//产生俄罗斯方块的个数
+	int score;//游戏的分数
+	int level;//游戏的等级 
+}; //注意分号 

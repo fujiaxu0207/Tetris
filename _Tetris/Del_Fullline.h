@@ -1,0 +1,1 @@
+void Del_Fullline(struct Tetris *);//判断是否满行，并删除满行的俄罗斯方块

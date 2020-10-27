@@ -1,0 +1,1 @@
+void Flag(struct Tetris *);//随机产生俄罗斯方块类型 

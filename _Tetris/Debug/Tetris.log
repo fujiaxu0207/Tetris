@@ -1,0 +1,40 @@
+﻿生成启动时间为 2020/10/20 14:22:12。
+     1>项目“C:\Users\fujiaxu\Desktop\Tetris\Tetris\Tetris.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Tetris.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt welcome.c
+         welcome.c
+     1>c:\users\fujiaxu\desktop\tetris\tetris\welcome.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         D:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\fujiaxu\Desktop\Tetris\Debug\Tetris.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Tetris.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\fujiaxu\Desktop\Tetris\Debug\Tetris.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\fujiaxu\Desktop\Tetris\Debug\Tetris.lib" /MACHINE:X86 Debug\CleanTetris.obj
+         Debug\close.obj
+         Debug\color.obj
+         Debug\Del_Fullline.obj
+         Debug\DrawGameframe.obj
+         Debug\explation.obj
+         Debug\Flag.obj
+         Debug\flower.obj
+         Debug\Gameplay.obj
+         Debug\gotoxy.obj
+         Debug\ifMove.obj
+         Debug\main.obj
+         Debug\MakeTetris.obj
+         Debug\PrintTetris.obj
+         Debug\regulation.obj
+         Debug\Replay.obj
+         Debug\title.obj
+         Debug\welcome.obj
+         LINK : 没有找到 C:\Users\fujiaxu\Desktop\Tetris\Debug\Tetris.exe 或上一个增量链接没有生成它；正在执行完全链接
+         Tetris.vcxproj -> C:\Users\fujiaxu\Desktop\Tetris\Debug\Tetris.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\fujiaxu\Desktop\Tetris\Debug\Tetris.exe;#1" /manifest Debug\Tetris.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Tetris.unsuccessfulbuild”。
+         正在对“Debug\Tetris.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\fujiaxu\Desktop\Tetris\Tetris\Tetris.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.21

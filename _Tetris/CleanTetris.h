@@ -1,0 +1,1 @@
+void CleanTetris(struct Tetris *);//清除俄罗斯方块的痕迹

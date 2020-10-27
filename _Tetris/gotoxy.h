@@ -1,0 +1,1 @@
+void gotoxy(int x,int y);//光标移动到指定的位置

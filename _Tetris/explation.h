@@ -1,0 +1,1 @@
+void explation();//ฐดผüหตร๗

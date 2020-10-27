@@ -1,0 +1,1 @@
+void PrintTetris(struct Tetris *);//´òÓ¡¶íÂŞË¹·½¿é 

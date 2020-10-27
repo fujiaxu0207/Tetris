@@ -1,0 +1,1 @@
+void Replay(struct Tetris *);//重新开始
